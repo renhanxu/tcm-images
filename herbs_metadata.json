@@ -1,0 +1,23 @@
+{
+  "herbs": [
+    {"name": "huangqi", "cn": "黄芪", "py": "huáng qì", "english": "Astragalus membranaceus", "source": "Wikimedia Commons CC-BY"},
+    {"name": "renshen", "cn": "人参", "py": "rén shēn", "english": "Panax ginseng", "source": "Wikimedia Commons CC-BY"},
+    {"name": "danggui", "cn": "当归", "py": "dāng guī", "english": "Angelica sinensis", "source": "Wikimedia Commons CC-BY"},
+    {"name": "lingzhi", "cn": "灵芝", "py": "líng zhī", "english": "Ganoderma lucidum", "source": "Wikimedia Commons CC-BY"},
+    {"name": "shendihuang", "cn": "生地黄", "py": "shēng dì huáng", "english": "Rehmannia glutinosa", "source": "Wikimedia Commons CC-BY"},
+    {"name": "dongchongxiacao", "cn": "冬虫夏草", "py": "dōng chóng xià cǎo", "english": "Cordyceps militaris", "source": "Wikimedia Commons CC-BY"},
+    {"name": "chenpi", "cn": "陈皮", "py": "chén pí", "english": "Citrus medica", "source": "Wikimedia Commons CC-BY"},
+    {"name": "shengjiang", "cn": "生姜", "py": "shēng jiāng", "english": "Zingiber officinale", "source": "Wikimedia Commons CC-BY"},
+    {"name": "shanzha", "cn": "山楂", "py": "shān zhā", "english": "Crataegus cuneata", "source": "Wikimedia Commons CC-BY"},
+    {"name": "gancao", "cn": "甘草", "py": "gān cǎo", "english": "Glycyrrhiza glabra", "source": "Wikimedia Commons CC-BY"},
+    {"name": "yinyanghuo", "cn": "淫羊藿", "py": "yín yáng huò", "english": "Epimedium", "source": "Wikimedia Commons CC-BY"},
+    {"name": "tianma", "cn": "天麻", "py": "tiān má", "english": "Gastrodia elata", "source": "Wikimedia Commons CC-BY"},
+    {"name": "danshen", "cn": "丹参", "py": "dān shēn", "english": "Salvia miltiorrhiza", "source": "Wikimedia Commons CC-BY"},
+    {"name": "gegen", "cn": "葛根", "py": "gé gēn", "english": "Pueraria lobata", "source": "Wikimedia Commons CC-BY"},
+    {"name": "chuanxiong", "cn": "川芎", "py": "chuān xiōng", "english": "Ligusticum chuanxiong", "source": "Wikimedia Commons CC-BY"}
+  ],
+  "total_images": 26,
+  "image_type": "botanical_photographs",
+  "license": "CC-BY and public domain from Wikimedia Commons",
+  "note": "All images are real medicinal herb photographs, not synthetic or AI-generated graphics"
+}
